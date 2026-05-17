@@ -1,0 +1,6 @@
+{
+  "name": "AI Personal Color Consultant",
+  "description": "Professional personal color analysis using AI. Upload a photo and get a detailed report on your seasonal color type, recommended palette, and styling tips.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
